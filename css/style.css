@@ -1,0 +1,26 @@
+
+.manu{
+    height: 5%;
+    background-color: rgb(25, 125, 213);
+}
+.ss{
+    float: right;
+    color: aqua;
+    padding: 20px;
+    height: 5%;
+    width: 5%;
+}
+img{
+    height: 5%;
+    width: 5%;
+
+}
+.pp{
+    background-color: brown;
+}
+.qq{
+    background-color: chocolate;
+}
+.rr{
+    background-color: palevioletred;
+}
